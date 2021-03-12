@@ -1,5 +1,4 @@
 +++
-draft = true
 img_alt = ""
 img_path = ""
 layout = "page"
